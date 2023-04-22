@@ -15,3 +15,21 @@ We will use Python to:
 - What Are The Number Of Trips Per Each Day?
 - What Are The Trips In The Month
 - The starting points of trips. Where Do People Start Boarding Their Trip From Most?
+
+## **Prerequisites**
+ - [Python](https://www.python.org/downloads/)
+ 
+## Installation
+Install libraries 
+```bash
+  pip install pandas
+  pip install numpy
+  pip install seaborn
+  pip install matplotlib
+  pip install plotly
+```
+## Run
+```bash
+  # Running Scraper File..
+  Data_Analysis_of_Uber_Data.ipynb  #File inside the folder 
+ ```
