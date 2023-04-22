@@ -31,5 +31,5 @@ Install libraries
 ## Run
 ```bash
   # Running Scraper File..
-  Data_Analysis_of_Uber_Data.ipynb  #File inside the folder 
+  Data_Analysis_of_Uber_Data.ipynb 
  ```
