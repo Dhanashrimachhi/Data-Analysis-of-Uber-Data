@@ -6,6 +6,13 @@ We will mainly use data regarding Uber ride
 
 we will use Python to analyze data from Uber.
 
+# Executive Summary
+Throughout the analysis, I was able to pull out several interesting insights:
+- Purpose Of Trips for meeting, meal/Entertain
+- Friday Has The Highest Number of Trip
+- 20 to 25th day has number of trips per each day
+- 12th month the trips in the month
+
 We will use Python to:
 
 - Check how long do people travel with Uber?
