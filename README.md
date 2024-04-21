@@ -2,9 +2,9 @@
 
 Uber Technologies, Inc., commonly known as Uber, is an American technology company. Its services include ride-hailing, food delivery, package delivery, couriers, freight transportation, and, through a partnership with Lime, electric bicycle and motorized scooter rental.
 
-We will mainly use data regarding Uber ride
+I mainly use data regarding Uber ride
 
-we will use Python to analyze data from Uber.
+I use Python to analyze data from Uber.
 
 # Executive Summary
 Throughout the analysis, I was able to pull out several interesting insights:
@@ -13,7 +13,7 @@ Throughout the analysis, I was able to pull out several interesting insights:
 - 20 to 25th day has number of trips per each day
 - 12th month the trips in the month
 
-We will use Python to:
+I use Python to:
 
 - Check how long do people travel with Uber?
 - What Hour Do Most People Take Uber To Their Destination?
